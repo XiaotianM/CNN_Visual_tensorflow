@@ -1,2 +1,3 @@
 *.ckpt
-*.png
+*.ipynb_checkpoints
+*.h5
